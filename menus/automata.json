@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle automata",
+        "command": "automata:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "automata",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "automata:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

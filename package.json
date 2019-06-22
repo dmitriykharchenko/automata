@@ -1,0 +1,17 @@
+{
+  "name": "automata",
+  "main": "lib/automata.js",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/automata",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "acorn": "^6.1.1",
+    "path": "^0.12.7",
+    "wildcard": "^1.1.2"
+  }
+}
