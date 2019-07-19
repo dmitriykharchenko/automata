@@ -1,5 +1,5 @@
 'use babel';
 
 export default () => {
-  '// hello here actions';
+  return '// hello here actions';
 };
