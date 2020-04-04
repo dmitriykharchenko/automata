@@ -10,7 +10,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "path": "^0.12.7",
     "path-to-regexp": "^3.0.0",
     "redux": "^4.0.1",
